@@ -1,2 +1,2 @@
 # Utility_Tools
-This utility tool android based project have multiple tools that are needed by the user. It will be able to run on any version of android OS.
+This Android utility project comprises a collection of versatile tools that cater to various user needs. It is compatible with all versions of the Android operating system.
